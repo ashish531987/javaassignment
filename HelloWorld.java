@@ -1,5 +1,5 @@
 class HelloWorld{
 public static void main(String args[]){
-System.out.println("Hello World! How are you? I am good. Notification support added.");
+System.out.println("Hello World! How are you? I am good.");
 }
 }
